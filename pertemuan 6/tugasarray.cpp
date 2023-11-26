@@ -45,5 +45,6 @@ using namespace std;
     cout << "\nNilai tertinggi dalam array adalah " << nilaitertinggi << " yang berada pada indeks ke - " << indekstertinggi << endl;
     garis();
 
+    return 0;
 }
 
